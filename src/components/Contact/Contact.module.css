@@ -1,0 +1,27 @@
+.item {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 2px;
+    padding: 20px;
+    min-width: 300px;
+}
+
+
+.line {
+    display: flex;
+    gap: 5px;
+}
+
+.btn {
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+.text {
+    margin: 0;
+    padding-bottom: 10px;
+
+}
